@@ -1,16 +1,16 @@
-# 🧠 Resume Matcher Microservice
+# Resume Matcher Microservice
 
 A scalable, AI-powered microservices system that parses resumes and automatically matches them with the most relevant job descriptions.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This system enables HR teams to upload multiple resumes, parse them for skills, and intelligently match them against available job descriptions using AI-based matching — all in an event-driven, cloud-native architecture.
 
 ---
 
-## 📦 Tech Stack and Why
+## Tech Stack and Why
 
 | Technology | Why it's used |
 |------------|---------------|
@@ -25,7 +25,7 @@ This system enables HR teams to upload multiple resumes, parse them for skills, 
 
 ---
 
-## 🧩 System Architecture
+## System Architecture
 
 ```plaintext
                  +-------------+
