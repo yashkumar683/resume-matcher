@@ -1,0 +1,4 @@
+2025-05-05T22:33:18.399+05:30  INFO 44828 --- [parser-service] [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] c.p.p.Consumers.ResumeConsumer           : Consume--ResumeInfo(fileName=yash_resume-1.pdf, resumeKey=d9bdc282-76de-4953-90e2-8fbdf70fb495-yash_resume-1.pdf, status=Processing)
+2025-05-05T22:33:19.832+05:30  INFO 44828 --- [parser-service] [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] c.p.p.Services.ResumeHandlerService      : Resume info
+2025-05-05T22:33:23.409+05:30  INFO 44828 --- [parser-service] [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] c.p.p.Services.BasicResumeParser         : Known skills--[java, springboot]
+2025-05-05T22:33:23.435+05:30  INFO 44828 --- [parser-service] [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] c.p.p.Services.ResumeHandlerService      : Result--MatchingResult(jobId=680cf63af3fb264167872cef, jobTitle=Software Engineer, matchScore=100.0)
